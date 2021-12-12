@@ -20,3 +20,11 @@ Programming for Data Analysis 2021 Project GMIT
 15. Feigin VL, Nichols E, Alam T, et al. Global, regional, and national burden of neurological disorders, 1990–2016: a systematic analysis for the global burden of disease study 2016. The Lancet Neurology. 2019;18(5):459–480. doi:10.1016/s1474-4422(18)30499-x
 16. Sung, H., et al. (2021) Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA: A Cancer Journal for Clinicians. doi.org/10.3322/caac.21660.
 17. https://www.statista.com/statistics/1031323/cancer-deaths-forecast-worldwide/
+18. https://www.investopedia.com/terms/r/randd.asp
+19. https://elmelin.com/what-is-the-role-of-the-r-and-d-department/
+20. https://laptrinhx.com/news/research-and-development-r-d-xrmMrEN/
+21. https://www.idaireland.com/doing-business-here/activities/research-development-and-innovation
+22. https://www.revenue.ie/en/companies-and-charities/reliefs-and-exemptions/research-and-development-rd-tax-credit/index.aspx
+23. https://www.revenue.ie/en/companies-and-charities/corporation-tax-for-companies/corporation-tax/index.aspx
+24. http://www.hpra.ie/homepage/medicines/special-topics/biosimilar-medicines
+25. https://www.pfizerbiosimilars.com/characteristics-of-biosimilars
