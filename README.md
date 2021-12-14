@@ -30,3 +30,22 @@ Programming for Data Analysis 2021 Project GMIT
 25. https://www.pfizerbiosimilars.com/characteristics-of-biosimilars
 26. https://assets.gov.ie/193851/9490e808-1774-440d-843a-28c3a9dc195c.pdf
 27. https://www.hopkinsmedicine.org/neurology_neurosurgery/centers_clinics/multiple_sclerosis/conditions/
+28. https://www.drugdiscoverytrends.com/pharma-50-the-50-largest-pharmaceutical-companies-in-the-world/
+29. https://www.fiercepharma.com/special-report/top-20-pharma-companies-by-2020-revenue
+30. https://seaborn.pydata.org/generated/seaborn.barplot.html
+31. https://www.pharmaceutical-technology.com/features/top-ten-pharma-companies-in-2020/
+32. https://www.fda.gov/patients/drug-development-process/step-3-clinical-research
+33. https://www.roche.com/research_and_development/who_we_are_how_we_work/research_and_clinical_trials/what_is_a_clinical_trial.htm?tab_id=tab1
+34. https://www.cancer.net/research-and-advocacy/clinical-trials/phases-clinical-trials
+35. https://debraireland.org/eb-news/what-are-clinical-trials/
+36. https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-puts-mercks-hiv-drug-trials-hold-2021-12-13/
+37. https://www.who.int/news-room/fact-sheets/detail/cancer
+38. https://clinicaltrials.gov/ct2/show/NCT04533451
+39. Shenoy P, Harugeri A. Elderly patients' participation in clinical trials. Perspect Clin Res. 2015;6(4):184-189. doi:10.4103/2229-3485.167099
+40. https://www.statista.com/statistics/989867/age-distribution-of-clinical-trials-worldwide-by-cancer/
+41. Meyer S, Woldu HG, Sheets LR. Sociodemographic diversity in cancer clinical trials: New findings on the effect of race and ethnicity. Contemp Clin Trials Commun. 2021;21:100718.
+42. Murthy Vivek H., Krumholz Harlan M., Gross Cary P. Participation in cancer clinical TrialsRace-, sex-, and age-based disparities. J. Am. Med. Assoc. 2004;291(22):2720–2726. doi: 10.1001/jama.291.22.2720.
+43. Thomas Saphner, Andy Marek, Jennifer K. Homa, Lisa Robinson, Neha Glandt,
+Clinical trial participation assessed by age, sex, race, ethnicity, and socioeconomic status,
+Contemporary Clinical Trials,Volume 103,2021,106315, ISSN 1551-7144,https://doi.org/10.1016/j.cct.2021.106315.
+44. 
