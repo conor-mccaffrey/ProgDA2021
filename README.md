@@ -48,4 +48,6 @@ Programming for Data Analysis 2021 Project GMIT
 43. Thomas Saphner, Andy Marek, Jennifer K. Homa, Lisa Robinson, Neha Glandt,
 Clinical trial participation assessed by age, sex, race, ethnicity, and socioeconomic status,
 Contemporary Clinical Trials,Volume 103,2021,106315, ISSN 1551-7144,https://doi.org/10.1016/j.cct.2021.106315.
-44. 
+44. https://numpy.org/doc/stable/reference/random/generated/numpy.random.triangular.html
+45. https://stats.stackexchange.com/questions/129417/if-my-histogram-shows-a-bell-shaped-curve-can-i-say-my-data-is-normally-distrib
+46. https://stackoverflow.com/questions/62499436/python-np-random-random-round-up-to-1-decimal
