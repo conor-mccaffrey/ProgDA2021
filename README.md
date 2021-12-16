@@ -53,4 +53,9 @@ Contemporary Clinical Trials,Volume 103,2021,106315, ISSN 1551-7144,https://doi.
 46. https://stackoverflow.com/questions/62499436/python-np-random-random-round-up-to-1-decimal
 47. van Marum RJ. Underrepresentation of the elderly in clinical trials, time for action. Br J Clin Pharmacol. 2020;86(10):2014-2016. https://doi.org/10.1111/bcp.14539
 48. https://seaborn.pydata.org/tutorial/aesthetics.html
-49. 
+49. Dymanus KA, Butaney M, Magee DE, Hird AE, Luckenbaugh AN, Ma MW, Hall ME, Huelster HL, Laviana AA, Davis NB, Terris MK, Klaassen Z, Wallis CJD. Assessment of gender representation in clinical trials leading to FDA approval for oncology therapeutics between 2014 and 2019: A systematic review-based cohort study. Cancer. 2021 Sep 1;127(17):3156-3162. doi: 10.1002/cncr.33533.
+50. Liu KA, Mager NA. Women's involvement in clinical trials: historical perspective and future implications. Pharm Pract (Granada). 2016 Jan-Mar;14(1):708. doi: 10.18549/PharmPract.2016.01.708.
+51. Schiebinger L. Women's health and clinical trials. J Clin Invest. 2003 Oct;112(7):973-7. doi: 10.1172/JCI19993. PMID: 14523031; PMCID: PMC198535..
+52. Mendis S, Anand S, Karasinska JM, Dasari A, Unger JM, Gothwal A, Ellis LM, Varadhachary G, Kopetz S, Overman MJ, Raghav K, Loree JM. Sex Representation in Clinical Trials Associated with FDA Cancer Drug Approvals Differs Between Solid and Hematologic Malignancies. Oncologist. 2021 Feb;26(2):107-114. doi: 10.1002/onco.13534. Epub 2020 Oct 7. PMID: 32960478; PMCID: PMC7873318.
+53. 
+
