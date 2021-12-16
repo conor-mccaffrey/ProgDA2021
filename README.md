@@ -51,3 +51,6 @@ Contemporary Clinical Trials,Volume 103,2021,106315, ISSN 1551-7144,https://doi.
 44. https://numpy.org/doc/stable/reference/random/generated/numpy.random.triangular.html
 45. https://stats.stackexchange.com/questions/129417/if-my-histogram-shows-a-bell-shaped-curve-can-i-say-my-data-is-normally-distrib
 46. https://stackoverflow.com/questions/62499436/python-np-random-random-round-up-to-1-decimal
+47. van Marum RJ. Underrepresentation of the elderly in clinical trials, time for action. Br J Clin Pharmacol. 2020;86(10):2014-2016. https://doi.org/10.1111/bcp.14539
+48. https://seaborn.pydata.org/tutorial/aesthetics.html
+49. 
