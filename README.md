@@ -57,5 +57,18 @@ Contemporary Clinical Trials,Volume 103,2021,106315, ISSN 1551-7144,https://doi.
 50. Liu KA, Mager NA. Women's involvement in clinical trials: historical perspective and future implications. Pharm Pract (Granada). 2016 Jan-Mar;14(1):708. doi: 10.18549/PharmPract.2016.01.708.
 51. Schiebinger L. Women's health and clinical trials. J Clin Invest. 2003 Oct;112(7):973-7. doi: 10.1172/JCI19993. PMID: 14523031; PMCID: PMC198535..
 52. Mendis S, Anand S, Karasinska JM, Dasari A, Unger JM, Gothwal A, Ellis LM, Varadhachary G, Kopetz S, Overman MJ, Raghav K, Loree JM. Sex Representation in Clinical Trials Associated with FDA Cancer Drug Approvals Differs Between Solid and Hematologic Malignancies. Oncologist. 2021 Feb;26(2):107-114. doi: 10.1002/onco.13534. Epub 2020 Oct 7. PMID: 32960478; PMCID: PMC7873318.
-53. 
+53. https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.choice.html
+54. https://thispointer.com/count-occurrences-of-a-value-in-numpy-array-in-python/
+55. https://datascienceplus.com/seaborn-categorical-plots-in-python/
+56. Habr D, Ferdinand R. Addressing racial/ethnic disparities in cancer clinical trials: Everyone has a role to play. Cancer. 2021 Sep 15;127(18):3282-3289. doi: 10.1002/cncr.33600. Epub 2021 Apr 27. PMID: 33904590.
+57. Loree JM, Anand S, Dasari A, et al. Disparity of race reporting and representation in clinical trials leading to cancer drug approvals from 2008 to 2018. JAMA Oncol. 2019;5:e191870. doi:10.1001/jamaoncol.2019.1870
+58. https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors
+59. https://www.merck.com/news/fda-approves-mercks-keytruda-pembrolizumab-as-adjuvant-treatment-for-adult-and-pediatric-%E2%89%A512-years-of-age-patients-with-stage-iib-or-iic-melanoma-following-complete-resectio/
+60. Camidge DR, Park H, Smoyer KE, Jacobs I, Lee LJ, Askerova Z, McGinnis J, Zakharia Y. Race and ethnicity representation in clinical trials: findings from a literature review of Phase I oncology trials. Future Oncol. 2021 Aug;17(24):3271-3280. doi: 10.2217/fon-2020-1262. Epub 2021 May 28. PMID: 34047192.
+61. Davis TC, Arnold CL, Mills G, Miele L. A Qualitative Study Exploring Barriers and Facilitators of Enrolling Underrepresented Populations in Clinical Trials and Biobanking. Front Cell Dev Biol. 2019 Apr 30;7:74. doi: 10.3389/fcell.2019.00074. PMID: 31114788; PMCID: PMC6502895.
+62. https://www.breastcancer.org/research-news/minorities-underrepresented-in-cancer-research
+63. Vuong, I., Wright, J., Nolan, M.B. et al. Overcoming Barriers: Evidence-Based Strategies to Increase Enrollment of Underrepresented Populations in Cancer Therapeutic Clinical Trials—a Narrative Review. J Canc Educ 35, 841–849 (2020). https://doi.org/10.1007/s13187-019-01650-y
+64. 
+
+
 
