@@ -68,7 +68,12 @@ Contemporary Clinical Trials,Volume 103,2021,106315, ISSN 1551-7144,https://doi.
 61. Davis TC, Arnold CL, Mills G, Miele L. A Qualitative Study Exploring Barriers and Facilitators of Enrolling Underrepresented Populations in Clinical Trials and Biobanking. Front Cell Dev Biol. 2019 Apr 30;7:74. doi: 10.3389/fcell.2019.00074. PMID: 31114788; PMCID: PMC6502895.
 62. https://www.breastcancer.org/research-news/minorities-underrepresented-in-cancer-research
 63. Vuong, I., Wright, J., Nolan, M.B. et al. Overcoming Barriers: Evidence-Based Strategies to Increase Enrollment of Underrepresented Populations in Cancer Therapeutic Clinical Trials—a Narrative Review. J Canc Educ 35, 841–849 (2020). https://doi.org/10.1007/s13187-019-01650-y
-64. 
+64. Willis A, Isaacs T, Khunti K. Improving diversity in research and trial participation: the challenges of language. Lancet Public Health. 2021 Jul;6(7):e445-e446. doi: 10.1016/S2468-2667(21)00100-6. PMID: 34174997.
+65. U.S. Food and Drug Administration. Drug trials snapshots. Available at: https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots
+66. 
+
+
+
 
 
 
