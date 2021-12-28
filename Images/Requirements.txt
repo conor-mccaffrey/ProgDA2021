@@ -1,0 +1,23 @@
+# Requirements to run the Notebook
+pandas 
+seaborn
+matplotlib
+scipy
+numpy
+
+# Data frames. (dataframes is another way to say spreadsheets)
+import pandas as pd
+
+# Numpy
+import numpy as np
+%matplotlib inline 
+
+
+# For plotting
+import seaborn as sns
+
+# For plotting
+import matplotlib.pyplot as plt
+
+# If required
+import scipy.stats as stats
